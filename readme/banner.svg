@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="751" viewBox="0 0 1100 751" role="img">
   <defs>
     <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#0B1418" />
-      <stop offset="45%" stop-color="#122028" />
-      <stop offset="100%" stop-color="#1A303C" />
+      <stop offset="0%" stop-color="#0B0F18" />
+      <stop offset="45%" stop-color="#121A2A" />
+      <stop offset="100%" stop-color="#1A2740" />
     </linearGradient>
     <linearGradient id="bannerGradSheen" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.10" />
@@ -13,20 +13,20 @@
   </defs>
   <rect width="1100" height="751" rx="22" fill="url(#bannerGrad)" />
   <rect width="1100" height="751" rx="22" fill="url(#bannerGradSheen)" />
-  <text x="550" y="64" text-anchor="middle" fill="#F8FAFC" font-family="Neue Montreal, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="0.5">Ready to Partner</text>
-  <line x1="420" y1="138" x2="680" y2="138" stroke="#67E8F9" stroke-width="1.5" stroke-opacity="0.45" />
-  <text x="550" y="172" text-anchor="middle" fill="#A5F3FC" font-family="Neue Montreal, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">I am ready to partner: Japan origin, senior AI</text>
-  <text x="550" y="210" text-anchor="middle" fill="#A5F3FC" font-family="Neue Montreal, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">engineering, live products.</text>
-  <text x="550" y="248" text-anchor="middle" fill="#A5F3FC" font-family="Neue Montreal, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">Looking for someone who wants a beneficial,</text>
-  <text x="550" y="286" text-anchor="middle" fill="#A5F3FC" font-family="Neue Montreal, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">ongoing relationship.</text>
-  <text x="550" y="324" text-anchor="middle" fill="#A5F3FC" font-family="Neue Montreal, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">There is around $3,000 monthly in this for a</text>
-  <text x="550" y="362" text-anchor="middle" fill="#A5F3FC" font-family="Neue Montreal, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">small amount of work.</text>
-  <text x="550" y="430" text-anchor="middle" fill="#67E8F9" font-family="Neue Montreal, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Live AI products, ready to partner</text>
-  <text x="550" y="473" text-anchor="middle" fill="#67E8F9" font-family="Neue Montreal, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Ongoing, not a one-off</text>
-  <text x="550" y="516" text-anchor="middle" fill="#67E8F9" font-family="Neue Montreal, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Around $3,000 monthly involved</text>
-  <path d="M456 595 L470 609 L484 595" fill="none" stroke="#67E8F9" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
-  <path d="M536 595 L550 609 L564 595" fill="none" stroke="#67E8F9" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
-  <path d="M616 595 L630 609 L644 595" fill="none" stroke="#67E8F9" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
-  <rect x="420" y="643" width="260" height="52" rx="26" fill="#ECFEFF" />
-  <text x="550" y="676" text-anchor="middle" fill="#083344" font-family="Neue Montreal, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="0.8">Visit website</text>
+  <text x="550" y="64" text-anchor="middle" fill="#F8FAFC" font-family="Cabinet Grotesk, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="0.5">Let's Ship Together</text>
+  <line x1="420" y1="138" x2="680" y2="138" stroke="#FDA4AF" stroke-width="1.5" stroke-opacity="0.45" />
+  <text x="550" y="172" text-anchor="middle" fill="#FECDD3" font-family="Cabinet Grotesk, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">I am a senior AI engineer originally from</text>
+  <text x="550" y="210" text-anchor="middle" fill="#FECDD3" font-family="Cabinet Grotesk, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">Japan, and I like shipping.</text>
+  <text x="550" y="248" text-anchor="middle" fill="#FECDD3" font-family="Cabinet Grotesk, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">Let's ship together if you want something that</text>
+  <text x="550" y="286" text-anchor="middle" fill="#FECDD3" font-family="Cabinet Grotesk, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">lasts longer than a gig.</text>
+  <text x="550" y="324" text-anchor="middle" fill="#FECDD3" font-family="Cabinet Grotesk, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">I can contribute nearly $3,000 / month without</text>
+  <text x="550" y="362" text-anchor="middle" fill="#FECDD3" font-family="Cabinet Grotesk, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500">a heavy schedule.</text>
+  <text x="550" y="430" text-anchor="middle" fill="#FDA4AF" font-family="Cabinet Grotesk, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">I like shipping AI work</text>
+  <text x="550" y="473" text-anchor="middle" fill="#FDA4AF" font-family="Cabinet Grotesk, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Let's ship together</text>
+  <text x="550" y="516" text-anchor="middle" fill="#FDA4AF" font-family="Cabinet Grotesk, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Nearly $3,000/month, no grind</text>
+  <path d="M456 595 L470 609 L484 595" fill="none" stroke="#FDA4AF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <path d="M536 595 L550 609 L564 595" fill="none" stroke="#FDA4AF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <path d="M616 595 L630 609 L644 595" fill="none" stroke="#FDA4AF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.85" />
+  <rect x="420" y="643" width="260" height="52" rx="26" fill="#FFE4E6" />
+  <text x="550" y="676" text-anchor="middle" fill="#4C0519" font-family="Cabinet Grotesk, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="0.8">Visit website</text>
 </svg>
