@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="186" viewBox="0 0 1100 186" role="img">
+  <defs>
+    <linearGradient id="typingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064E3B" />
+      <stop offset="50%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#A7F3D0" />
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="186" rx="16" fill="url(#typingGrad)" />
+  <text x="550" y="66" text-anchor="middle" fill="#A7F3D0" font-family="Lato, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Production AI, open for partners</text>
+  <text x="550" y="112" text-anchor="middle" fill="#A7F3D0" font-family="Lato, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">If we click, we both gain</text>
+  <text x="550" y="158" text-anchor="middle" fill="#A7F3D0" font-family="Lato, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Around $3,000 monthly to share</text>
+</svg>
