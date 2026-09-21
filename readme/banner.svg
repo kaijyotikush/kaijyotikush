@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="730" viewBox="0 0 1100 730" role="img">
+  <defs>
+    <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A120B" />
+      <stop offset="50%" stop-color="#C2410C" />
+      <stop offset="100%" stop-color="#FBBF24" />
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="730" rx="18" fill="url(#bannerGrad)" />
+  <text x="550" y="56" text-anchor="middle" fill="#FFFFFF" font-family="Oswald, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700">Let's Work Together</text>
+  <text x="550" y="132" text-anchor="middle" fill="#FFFFFF" font-family="Oswald, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">Senior AI work, Japan roots, products in</text>
+  <text x="550" y="172" text-anchor="middle" fill="#FFFFFF" font-family="Oswald, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">production.</text>
+  <text x="550" y="212" text-anchor="middle" fill="#FFFFFF" font-family="Oswald, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">I would rather grow this with a partner than</text>
+  <text x="550" y="252" text-anchor="middle" fill="#FFFFFF" font-family="Oswald, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">keep doing it solo.</text>
+  <text x="550" y="292" text-anchor="middle" fill="#FFFFFF" font-family="Oswald, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">There is roughly $3,000 / month available for</text>
+  <text x="550" y="332" text-anchor="middle" fill="#FFFFFF" font-family="Oswald, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">someone who helps.</text>
+  <text x="550" y="398" text-anchor="middle" fill="#FBBF24" font-family="Oswald, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Production AI, not demos</text>
+  <text x="550" y="444" text-anchor="middle" fill="#FBBF24" font-family="Oswald, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Let's work together on this</text>
+  <text x="550" y="490" text-anchor="middle" fill="#FBBF24" font-family="Oswald, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="600">Roughly $3,000/month available</text>
+  <path d="M408 570 L430 594 L452 570" fill="none" stroke="#FBBF24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M528 570 L550 594 L572 570" fill="none" stroke="#FBBF24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M648 570 L670 594 L692 570" fill="none" stroke="#FBBF24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="410" y="626" width="280" height="56" rx="12" fill="#EA580C" />
+  <text x="550" y="662" text-anchor="middle" fill="#FFFFFF" font-family="Oswald, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">Visit website</text>
+</svg>
