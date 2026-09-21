@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="288" viewBox="0 0 1100 288" role="img">
+  <defs>
+    <linearGradient id="introGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064E3B" />
+      <stop offset="50%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#A7F3D0" />
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="288" rx="16" fill="url(#introGrad)" />
+  <text x="550" y="62" text-anchor="middle" fill="#022C22" font-family="Lato, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">I am open for partners: AI engineer, Japan</text>
+  <text x="550" y="102" text-anchor="middle" fill="#022C22" font-family="Lato, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">origin, production work.</text>
+  <text x="550" y="142" text-anchor="middle" fill="#022C22" font-family="Lato, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">If we click, the collaboration should pay off</text>
+  <text x="550" y="182" text-anchor="middle" fill="#022C22" font-family="Lato, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">for both of us.</text>
+  <text x="550" y="222" text-anchor="middle" fill="#022C22" font-family="Lato, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">I can share around $3,000 monthly for help</text>
+  <text x="550" y="262" text-anchor="middle" fill="#022C22" font-family="Lato, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">that stays lightweight.</text>
+</svg>
